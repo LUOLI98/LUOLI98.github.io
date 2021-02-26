@@ -1,37 +1,56 @@
-## halaha
+# Henry Bush, IT Engineer  
 
-You can use the [editor on GitHub](https://github.com/LUOLI98/LUOLI98.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Phone: 15651998972  
+E-mail:(zhuhr1998@163.com)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# PROFILE  
 
-### Markdown
+* Hardworking College Student seeking employment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Bringing forth a motivated attitude and a variety of powerful skills.
+* Adept in various social media platforms and office technology programs.
+* Committed to utilizing my skills to further the mission of a company.  
 
-```markdown
-Syntax highlighted code block
+# EMPLOYMENT HISTORY  
 
-# Header 1
-## Header 2
-### Header 3
+| DATE                  | EVENT                           |
+| :-------------------- | ------------------------------- |
+| Aug 2019 --- Sep 2019 | JAVA training, YUNSI TECHNOLOGY |
+|                       | Carrying on JAVA projects.      |
 
-- Bulleted
-- List
+# EDUCATION  
 
-1. Numbered
-2. List
+| DATE                  | EVENT                                    |
+| :-------------------- | ---------------------------------------- |
+| Sep 2017 --- Jul 2021 | Undergraduate, NUIST                     |
+|                       | 4 years of study on Informaiton Security |
 
-**Bold** and _Italic_ and `Code` text
+# SKILLS  
 
-[Link](url) and ![Image](src)
-```
+| PROGRAMMING | DEGREE   |
+| ----------- | -------- |
+| MySQL       | Beginner |
+| Python      | Beginner |
+| C++         | Beginner |
+| Linux       | Beginner |
+| JAVA        | Beginner |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# LANGUAGE  
 
-### Jekyll Themes
+| language | DEGREE            |
+| -------- | ----------------- |
+| Chinese  | Very good command |
+| English  | CET-6 480         |
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LUOLI98/LUOLI98.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# HOBBIES  
 
-### Support or Contact
+Reading, Running, Swimming
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
